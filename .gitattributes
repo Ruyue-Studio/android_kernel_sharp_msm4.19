@@ -1,0 +1,9 @@
+prebuilts/clang/host/linux-x86/clang-r377782d/lib64/libLLVM-10git.so filter=lfs diff=lfs merge=lfs -text
+prebuilts/clang/host/linux-x86/clang-r377782d/lib64/libclang_cxx.so.10git filter=lfs diff=lfs merge=lfs -text
+prebuilts/clang/host/linux-x86/clang-r377782d/lib64/liblldb.so.10.0.6git filter=lfs diff=lfs merge=lfs -text
+prebuilts/clang/host/linux-x86/clang-r377782d/bin/clang-10 filter=lfs diff=lfs merge=lfs -text
+prebuilts/clang/host/linux-x86/clang-r377782d/lib64/libclang.so.10git filter=lfs diff=lfs merge=lfs -text
+vmlinux filter=lfs diff=lfs merge=lfs -text
+.tmp_vmlinux1 filter=lfs diff=lfs merge=lfs -text
+.tmp_vmlinux2 filter=lfs diff=lfs merge=lfs -text
+vmlinux.o filter=lfs diff=lfs merge=lfs -text
